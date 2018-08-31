@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936228268148",
+    "firebase_url": "https://chatroom-6f257.firebaseio.com",
+    "project_id": "chatroom-6f257",
+    "storage_bucket": "chatroom-6f257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936228268148:android:117540f09232c7e9",
+        "android_client_info": {
+          "package_name": "edu.uncc.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936228268148-6a7ls670dun3jjead0sji8e0nlcs2j1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uncc.chatroom",
+            "certificate_hash": "710b43f3b08fdc4376d13da265c3eb6f348baa4c"
+          }
+        },
+        {
+          "client_id": "936228268148-h3urb15g2dkd02057mtdln3mbo1qo3ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxYRH1SHqiBUiDhHaq8AvBnT0pLuDsWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936228268148-h3urb15g2dkd02057mtdln3mbo1qo3ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
